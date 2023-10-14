@@ -9,4 +9,4 @@
 
  https://dnsdumpster.com/#hostanchor (поиск всех запросов nslookup)
 
- 
+ theHarvester -d yandex.ru -b baidu,bing,bingapi,bufferoverun,certspotter,crtsh,dnsdumpster,duckduckgo,exalead,github-code,google,hackertarget,hunter,intelx,linkedin,linkedin_links,netcraft,otx,pentesttools,projectdiscovery,qwant,rapiddns,securityTrails,spyse,sublist3r,threatcrowd,threatminer,trello,twitter,urlscan,virustotal,yahoo
