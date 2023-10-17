@@ -18,3 +18,8 @@ sublist3r -d "yandex.ru" -v -t 2      (поиск поддоменов)
 
 
 Censys и Shodan подскажут о сетевой информации (открытые порты), баннерах и ответах веб-сервера, Sublist3r и DNSDumpster помогут найти поддомены. Используя Google dorks можно найти все doc-файлы, доступные на веб-ресурсе (если их индексирование не запрещено в явном виде в robots.txt)
+
+Для Censys:  
+
+port 445 and banner.version: "SMB 1.0" and location.country_code:RU
+
