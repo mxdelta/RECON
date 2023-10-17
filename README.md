@@ -25,5 +25,5 @@ Censys и Shodan подскажут о сетевой информации (от
 
 Для Censys:  
 
-port 445 and banner.version: "SMB 1.0" and location.country_code:RU
+services.port: 445 and services.banner: "SMB 1.0" and location.country_code:RU
 
