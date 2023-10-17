@@ -28,4 +28,4 @@ Censys и Shodan подскажут о сетевой информации (от
 https://search.censys.io/search/definitions?resource=hosts&q=services.port%3A+445+banner.version%3ASMB+1+and+location.country_code%3ARU&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE    (справка)
 
 services.port: 445 and services.banner: "SMB 1.0" and location.country_code:RU
-
+services.port: 445 and services.banner: "SMB 1.0" and location.country_code:RU
